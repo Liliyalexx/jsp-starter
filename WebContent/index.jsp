@@ -15,7 +15,7 @@
 
 <p>
 <%
-	out.println("Addition of numbers is : " + (45 + 90));
+	out.println("The addition of numbers is : " + (45 + 90));
 %>
 </p>
 
